@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/thriftykapila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thriftykapila" height="30" width="40" /></a>
 <a href="https://instagram.com/thrifty.kapila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thrifty.kapila" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/UCqq5E4JSDAkpgHcaO9kZyUQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCqq5E4JSDAkpgHcaO9kZyUQ" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thriftykapila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thriftykapila" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thrifty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="thrifty" height="30" width="40" /></a>
 </p>
 
