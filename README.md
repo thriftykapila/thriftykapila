@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development, UI / UX design and startup ideas**
 
-- 📫 How to reach me **thriftygsf@gmail.com**
+- 📫 How to reach me **tothriftykapila@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
